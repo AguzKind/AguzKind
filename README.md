@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Agustin Macoggi</h1>
 <h3 align="center">Un desarrollador fullstack de Argentina en busca de su primer empleo en el mundo de IT</h3>
 
-- 🌱 Ahora estoy cursando 2 cursos, los cuales son de **React, Angular**
+- 🌱 Ahora estoy realizando 2 cursos, los cuales son de **React y Angular**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en mi portfiolio [https://aguzkind.github.io/](https://aguzkind.github.io/)
 
