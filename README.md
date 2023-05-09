@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Agustin Macoggi</h1>
-<h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
+<h3 align="center">Un desarrollador fullstack de Argentina en busca de su primer empleo en el mundo de IT</h3>
 
 - 🌱 Ahora estoy cursando 2 cursos, los cuales son de **React, Angular**
 
@@ -7,7 +7,7 @@
 
 - 📫 Como Contactarme? **agustinmacoggi@gmail.com**
 
-- ⚡ Fun fact **Soy un poco introvertido pero despues de conocer a las personas me desenvuelvo muy facilmente**
+- ⚡ Fun fact: **Soy un poco introvertido pero despues de conocer a las personas me desenvuelvo muy facilmente.**
 
 <h3 align="left">Contactate conmigo:</h3>
 <p align="left">
