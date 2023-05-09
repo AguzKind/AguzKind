@@ -5,11 +5,11 @@
 
 - 👨‍💻 Todos mis proyectos estan disponibles en mi portfiolio [https://aguzkind.github.io/](https://aguzkind.github.io/)
 
-- 📫 Como Contactarme? **agustinmacoggi@gmail.com**
+- 📫 Queres contactarme? **agustinmacoggi@gmail.com**
 
 - ⚡ Fun fact: **Soy un poco introvertido pero despues de conocer a las personas me desenvuelvo muy facilmente.**
 
-<h3 align="left">Contactate conmigo:</h3>
+<h3 align="left">Otras redes donde podes encontrarme:</h3>
 <p align="left">
 <a href="https://twitter.com/aguzkind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aguzkind" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agustinmacoggi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustinmacoggi" height="30" width="40" /></a>
