@@ -7,7 +7,7 @@
 
 - 📫 Queres contactarme? **agustinmacoggi@gmail.com**
 
-- ⚡ Fun fact: **Soy un poco introvertido pero despues de conocer a las personas me desenvuelvo muy facilmente.**
+- ⚡ Fun fact: **No puedo vivir sin música. Puedo estar haciendo cualquier cosa que con música lo voy a hacer mucho mejor.**
 
 <h3 align="left">Otras redes donde podes encontrarme:</h3>
 <p align="left">
