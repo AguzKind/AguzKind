@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Agustin Macoggi</h1>
-<h3 align="center">Un desarrollador fullstack de Argentina en busca de su primer empleo en el mundo de IT</h3>
+<h3 align="center">Soy un desarrollador fullstack de Argentina</h3>
 
 - 🌱 Ahora estoy realizando 2 cursos, los cuales son de **React y Angular**
 
