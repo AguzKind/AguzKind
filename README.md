@@ -3,7 +3,7 @@
 
 - 🌱 Ahora estoy realizando 2 cursos, los cuales son de **React y Angular**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en mi portfiolio [https://aguzkind.github.io/](https://aguzkind.github.io/)
+- 👨‍💻 Todos mis proyectos estan disponibles en mi portfiolio (por el momento, esta offline)
 
 - 📫 Queres contactarme? **agustinmacoggi@gmail.com**
 
