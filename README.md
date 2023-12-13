@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Agustin Macoggi</h1>
 <h3 align="center">Soy un desarrollador fullstack de Argentina</h3>
 
-- 🌱 Ahora estoy realizando 2 cursos, los cuales son de **React y Angular**
+- 🌱 Ahora estoy realizando 2 cursos, los cuales son de **C# - .NET y Angular**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en mi portfiolio (por el momento, esta offline)
 
