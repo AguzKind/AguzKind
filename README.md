@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Agustin Macoggi</h1>
 <h3 align="center">Soy un desarrollador fullstack de Argentina</h3>
 
-- 🌱 Ahora estoy realizando 2 cursos, los cuales son de **C# - .NET y Angular**
+- 🌱 Estoy en el ultimo año de la Tecnicatura de Sistemas. Además estoy haciendo cursos por udemy.
 
-- 👨‍💻 Todos mis proyectos estan disponibles en mi <strong>[Portfolio!](https://aguzkind.dev.ar)</strong>
+- 👨‍💻 Todos mis proyectos estan acá o en mi <strong target="blank">[Portfolio!](https://aguzkind.dev.ar)</strong>
 
 - 📫 Queres contactarme? **agustinmacoggi@gmail.com**
 
