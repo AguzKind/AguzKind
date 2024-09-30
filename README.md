@@ -3,7 +3,7 @@
 
 - 🌱 Ahora estoy realizando 2 cursos, los cuales son de **C# - .NET y Angular**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en mi portfiolio (por el momento, esta offline)
+- 👨‍💻 Todos mis proyectos estan disponibles en mi # [portfolio](https://aguzkind.dev.ar)
 
 - 📫 Queres contactarme? **agustinmacoggi@gmail.com**
 
