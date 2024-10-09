@@ -9,6 +9,16 @@
 
 - ⚡ Fun fact: **No puedo vivir sin música. Puedo estar haciendo cualquier cosa que con música lo voy a hacer mucho mejor.**
 
+<div align="left">
+  <h3>PODES SEGUIRME EN MIS REDES</h3>
+  <a href="https://www.linkedin.com/in/agustinmacoggi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/aguzkind" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
 <hr>
 
 <div align="center">
@@ -40,18 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
-</div>
-
-<hr>
-
-<div align="center">
-  <h3>MIS REDES</h3>
-  <a href="https://www.linkedin.com/in/agustinmacoggi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/aguzkind" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 <hr>
