@@ -12,7 +12,7 @@
 <hr>
 
 <div align="center">
-  <p>Tecnologías que utilizo</p>
+  <h3>Tecnologías que utilizo</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="60" alt="dot-net logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
@@ -45,7 +45,7 @@
 <br>
 
 <div align="center">
-  <p>Mis Redes</p>
+  <h3>Mis Redes</h3>
   <a href="https://www.linkedin.com/in/agustinmacoggi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
