@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Agustin Macoggi</h1>
 <h3 align="center">Soy un desarrollador fullstack de Argentina</h3>
 
-###
-
 - 🌱 Estoy en el ultimo año de la Tecnicatura de Sistemas. Además estoy haciendo cursos por udemy.
 
 - 👨‍💻 Todos mis proyectos estan acá o en mi <strong target="blank">[Portfolio!](https://aguzkind.dev.ar)</strong>
@@ -11,9 +9,10 @@
 
 - ⚡ Fun fact: **No puedo vivir sin música. Puedo estar haciendo cualquier cosa que con música lo voy a hacer mucho mejor.**
 
-###
+<hr>
 
 <div align="center">
+  <p>Tecnologías que utilizo</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="60" alt="dot-net logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
@@ -43,9 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
 </div>
 
-###
+<br>
 
-<div align="left">
+<div align="center">
+  <p>Mis Redes</p>
   <a href="https://www.linkedin.com/in/agustinmacoggi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
