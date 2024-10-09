@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
 </div>
 
-<br>
+<hr>
 
 <div align="center">
   <h3>MIS REDES</h3>
@@ -54,7 +54,7 @@
   </a>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
   <h3>ESTADISTICAS</h3>
